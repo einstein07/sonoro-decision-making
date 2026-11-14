@@ -1,0 +1,7 @@
+# Minimal direct runtime dependencies for ring_circle_target.py
+# Tested package versions taken from the supplied ROBAT environment (Python 3.11.2).
+
+numpy==1.26.4
+scipy==1.14.1
+sounddevice==0.5.1
+thymiodirect @ git+https://github.com/epfl-mobots/thymio-python@6c0ae84924bc45ad959c02c8ffd4fe0524e6f683
